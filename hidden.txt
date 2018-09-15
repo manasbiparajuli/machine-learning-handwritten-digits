@@ -1,0 +1,10 @@
+hidden: [100, 50]Test accuracy: 0.9755
+hidden: [150, 100]Test accuracy: 0.972
+hidden: [200, 150]Test accuracy: 0.9776
+hidden: [250, 200]Test accuracy: 0.9711
+hidden: [300, 250]Test accuracy: 0.977
+hidden: [350, 300]Test accuracy: 0.97
+hidden: [400, 350]Test accuracy: 0.9767
+hidden: [450, 400]Test accuracy: 0.9744
+hidden: [500, 450]Test accuracy: 0.9794
+hidden: [550, 500]Test accuracy: 0.9702
